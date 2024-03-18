@@ -1,7 +1,7 @@
 # KeyAuth Discord bot
 
 ## What is KeyAuth?
-KeyAuth is an "authentication" service designed as a sort of "license key" based system. You can create keys, track what HWID is tracked to which key, and way way more.
+[KeyAuth](https://keyauth.cc) is an "authentication" service designed as a sort of "license key" based system. You can create keys, track what HWID is tracked to which key, and way way more.
 > [!NOTE]
 > Because of how this bot works, you cannot track what HWID uses a specific key. They will all go back to the same HWID (that is, the one that is hosting the bot itself)
 > 
