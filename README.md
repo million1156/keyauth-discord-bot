@@ -3,9 +3,11 @@
 ## What is KeyAuth?
 KeyAuth is an "authentication" service designed as a sort of "license key" based system. You can create keys, track what HWID is tracked to which key, and way way more.
 > [!NOTE]
-> Because of how this solution works, you cannot track what HWID uses a specific key. They will all go back to the same HWID (that is, the one that is hosting the bot itself)
+> Because of how this bot works, you cannot track what HWID uses a specific key. They will all go back to the same HWID (that is, the one that is hosting the bot itself)
 > 
 > To disable requiring a valid HWID (in the event you change VPS providers), you can go to your [app's settings in KeyAuth](https://keyauth.cc/app/?page=app-settings) and set "HWID Lock" to "Disabled".
+>
+> (if you are not using this bot, HWID locking should still work)
 
 
 ## What does this do?
