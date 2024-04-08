@@ -30,7 +30,7 @@ MarkupSafe==2.1.2
 multidict==6.0.5
 netifaces==0.11.0
 packaging==23.1
-Pillow==10.0.0
+Pillow==10.3.0
 prettytable==3.9.0
 pyaes==1.6.1
 pyasn1==0.5.1
